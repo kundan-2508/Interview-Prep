@@ -1,5 +1,6 @@
 
 https://leetcode.com/problems/single-number/
+https://www.interviewbit.com/problems/noble-integer/
 
 class Solution {
 public:
