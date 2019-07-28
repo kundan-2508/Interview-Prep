@@ -6,3 +6,47 @@ https://www.hackerrank.com/contests/coding-test-1-bits-hyderabad/challenges/spir
 https://www.interviewbit.com/problems/spiral-order-matrix-i/
 https://www.codechef.com/problems/SPMAT#
 https://www.hackerearth.com/problem/algorithm/spiral-matrix-1/description/
+
+
+class Solution {
+public:
+    vector<int> spiralOrder(vector<vector<int>>& matrix) {
+        vector<int> v;
+        if(matrix.empty())
+        {
+            return v;
+        }
+        int i, startRow = 0, startCol = 0;
+        int endRow = matrix.size(), endCol = matrix[0].size();
+        while(startRow < endRow && startCol < endCol)
+        {
+            for(i=startCol;i<endCol;i++)
+            {
+                v.push_back(matrix[startRow][i]);
+            }
+            startRow++;
+            for(i=startRow;i<endRow;i++)
+            {
+                v.push_back(matrix[i][endCol-1]);
+            }
+            endCol--;
+            if(startRow < endRow)
+            {
+                for(i=endCol-1;i>=startCol;i--)
+                {
+                    v.push_back(matrix[endRow-1][i]);
+                }
+                endRow--;
+            }
+            if(startCol < endCol)
+            {
+                for(i=endRow-1;i>=startRow;i--)
+                {
+                    v.push_back(matrix[i][startCol]);
+                }
+                startCol++;
+            }
+        }
+        return v;
+    }
+};
