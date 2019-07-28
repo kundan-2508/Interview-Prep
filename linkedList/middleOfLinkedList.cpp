@@ -1,5 +1,7 @@
 
 https://leetcode.com/problems/middle-of-the-linked-list/
+https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1
+https://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/
 
 // solution 1
 
