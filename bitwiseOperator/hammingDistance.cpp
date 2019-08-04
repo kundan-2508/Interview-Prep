@@ -1,5 +1,5 @@
 
-https://leetcode.com/problems/hamming-distance/submissions/
+https://leetcode.com/problems/hamming-distance/
 https://www.geeksforgeeks.org/hamming-distance-between-two-integers/
 
 class Solution {
