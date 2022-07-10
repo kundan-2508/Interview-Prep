@@ -5,6 +5,8 @@
 1. Binary search implementation (Iterative/Recursive Approach)
 2. First and last occurance
 3. Peak element in mountain array
+4. Find pivot element in sorted rotated array
+5. Search in sorted rotated array
 
 #### **_Sorting_**
 
