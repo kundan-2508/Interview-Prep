@@ -40,7 +40,8 @@
 
 #### **_Linked List_**
 
-1. 
+1. Traversal of linked list
+2. Insert node at Head
 
 #### **_Stack And Queues_**
 
