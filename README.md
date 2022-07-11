@@ -6,7 +6,9 @@
 2. First and last occurance
 3. Peak element in mountain array
 4. Find pivot element in sorted rotated array
-5. Search in sorted rotated array
+5. Find pivot element in sorted rotated array (Duplicate version)
+6. Search in sorted rotated array
+7. Sqrt using Binary search
 
 #### **_Sorting_**
 
