@@ -84,3 +84,11 @@
 #### **_Bit Manipulation_**
 
 1. 
+
+#### **_Strings_**
+
+1. 
+
+#### **_Maths_**
+
+1. 
