@@ -44,6 +44,7 @@
 2. Insert node at Head
 3. Insert node at tail
 4. Insert at any position
+5. Delete from any position
 
 #### **_Stack And Queues_**
 
