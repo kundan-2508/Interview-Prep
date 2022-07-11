@@ -42,6 +42,7 @@
 
 1. Traversal of linked list
 2. Insert node at Head
+3. Insert node at tail
 
 #### **_Stack And Queues_**
 
