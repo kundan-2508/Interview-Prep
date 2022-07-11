@@ -30,3 +30,27 @@
 8. Check palindrome
 9. Power set
 10. Subsequences of a string
+
+#### **_Arrays_**
+
+1. 
+
+#### **_Linked List_**
+
+1. 
+
+#### **_Stack And Queues_**
+
+1. 
+
+#### **_Pattern Printing_**
+
+1. 
+
+#### **_Dynamic Programing_**
+
+1. 
+
+#### **_Graph_**
+
+1. 
