@@ -54,3 +54,27 @@
 #### **_Graph_**
 
 1. 
+
+#### **_Tree_**
+
+1. 
+
+#### **_Binary Search Tree_**
+
+1. 
+
+#### **_Heaps_**
+
+1. 
+
+#### **_Trie_**
+
+1. 
+
+#### **_Backtracking_**
+
+1. 
+
+#### **_Bit Manipulation_**
+
+1. 
