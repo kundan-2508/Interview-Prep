@@ -9,6 +9,9 @@
 5. Find pivot element in sorted rotated array (Duplicate version)
 6. Search in sorted rotated array
 7. Sqrt using Binary search
+8. Book allocation problem
+9. Painter's partition problem
+10. Aggresive cows problem
 
 #### **_Sorting_**
 
