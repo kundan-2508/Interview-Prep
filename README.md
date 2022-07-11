@@ -43,6 +43,7 @@
 1. Traversal of linked list
 2. Insert node at Head
 3. Insert node at tail
+4. Insert at any position
 
 #### **_Stack And Queues_**
 
