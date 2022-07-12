@@ -47,6 +47,7 @@
 5. Delete from any position
 6. Traversal of doubly linked list
 7. Insertion at any position in doubly linked list
+8. Deletion at any position in doubly linked list
 
 #### **_Stack And Queues_**
 
