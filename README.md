@@ -52,6 +52,8 @@
 10. Insertion in circular linked list
 11. Check linked list is circular
 12. Deletion in circular linked list
+13. Reverse a linked list (Singly & Doubly)
+14. Find middle of linked list
 
 #### **_Stack And Queues_**
 
