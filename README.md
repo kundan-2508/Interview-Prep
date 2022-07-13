@@ -94,8 +94,11 @@
 #### **_Bit Manipulation_**
 
 1. Count set bits
-2. Binary to decimal
-3. Decimal to binary
+2. Count bits in a number
+3. Binary to decimal
+4. Decimal to binary
+5. Power of 2
+6. Compliment of decimal
 
 #### **_Strings_**
 
