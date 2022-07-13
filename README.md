@@ -93,7 +93,9 @@
 
 #### **_Bit Manipulation_**
 
-1. 
+1. Count set bits
+2. Binary to decimal
+3. Decimal to binary
 
 #### **_Strings_**
 
