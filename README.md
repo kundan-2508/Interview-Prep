@@ -39,10 +39,11 @@
 1. Swap alternate
 2. Array Intersection
 3. Pair sum
-4. Triplet sum
-5. Sort 0's and 1's
-6. Maximum and minimum no in an array
-7. Unique no of occurances
+4. Count pair sum
+5. Triplet sum
+6. Sort 0's and 1's
+7. Maximum and minimum no in an array
+8. Unique no of occurances
 
 #### **_Linked List_**
 
