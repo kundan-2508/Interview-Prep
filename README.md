@@ -36,7 +36,12 @@
 
 #### **_Arrays_**
 
-1. 
+1. Swap alternate
+2. Find unique
+3. Array Intersection
+4. Pair sum
+5. Triplet sum
+6. Sort 0's and 1's
 
 #### **_Linked List_**
 
