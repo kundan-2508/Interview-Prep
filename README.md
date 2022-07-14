@@ -42,8 +42,9 @@
 4. Count pair sum
 5. Triplet sum
 6. Sort 0's and 1's
-7. Maximum and minimum no in an array
-8. Unique no of occurances
+7. Sort 0's , 1's and 2's
+8. Maximum and minimum no in an array
+9. Unique no of occurances
 
 #### **_Linked List_**
 
