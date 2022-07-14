@@ -106,7 +106,8 @@
 5. Power of 2
 6. Compliment of decimal
 7. Find unique
-8. Find duplicate
+8. Find duplicate in an array
+9. Find all duplicates in an array
 
 #### **_Strings_**
 
