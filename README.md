@@ -48,6 +48,9 @@
 9. Unique no of occurances
 10. Merge 2 sorted arrays
 11. Move zeroes
+12. Rotate array
+13. Check for sorted array
+14. Add arrays
 
 #### **_Linked List_**
 
