@@ -33,6 +33,7 @@
 8. Check palindrome
 9. Power set
 10. Subsequences of a string
+11. Reverse an array
 
 #### **_Arrays_**
 
@@ -45,6 +46,8 @@
 7. Sort 0's , 1's and 2's
 8. Maximum and minimum no in an array
 9. Unique no of occurances
+10. Merge 2 sorted arrays
+11. Move zeroes
 
 #### **_Linked List_**
 
