@@ -127,6 +127,7 @@
 6. Remove all occurrences of substring
 7. Remove all adjacent duplicates
 8. String Compression
+9. Permutation in string
 
 #### **_Maths_**
 
