@@ -95,7 +95,8 @@
 
 #### **_Heaps_**
 
-1. 
+1. Build Min/Max heap
+2. Insertion/Deletion in heap
 
 #### **_Trie_**
 
