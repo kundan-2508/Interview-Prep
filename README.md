@@ -119,7 +119,14 @@
 
 #### **_Strings_**
 
-1. 
+1. Check palindrome
+2. Reverse a string
+3. Valid palindrome
+4. Reverse words
+5. Maximum occurring character
+6. Remove all occurrences of substring
+7. Remove all adjacent duplicates
+8. String Compression
 
 #### **_Maths_**
 
