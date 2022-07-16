@@ -20,6 +20,7 @@
 3. Insertion sort (Iterative/Recursive Approach)
 4. Merge sort (Recursive Approach)
 5. Count inversion
+6. Heap sort
 
 #### **_Recursion_**
 
