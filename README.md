@@ -100,6 +100,7 @@
 2. Insertion/Deletion in heap
 3. Heap sort
 4. Kth largest/smallest element in an array
+5. Is binary tree a heap
 
 #### **_Trie_**
 
