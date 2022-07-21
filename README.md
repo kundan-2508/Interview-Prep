@@ -88,7 +88,7 @@
 
 #### **_Tree_**
 
-1. 
+1. Level order traversal
 
 #### **_Binary Search Tree_**
 
