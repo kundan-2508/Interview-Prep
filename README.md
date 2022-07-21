@@ -89,6 +89,9 @@
 #### **_Tree_**
 
 1. Level order traversal
+2. Inorder traversal
+3. Pre order traversal
+4. Post order traversal
 
 #### **_Binary Search Tree_**
 
