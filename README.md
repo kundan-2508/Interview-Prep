@@ -12,6 +12,7 @@
 8. Book allocation problem
 9. Painter's partition problem
 10. Aggresive cows problem
+11. Find bitonic point in an array
 
 #### **_Sorting_**
 
@@ -52,6 +53,7 @@
 12. Rotate array
 13. Check for sorted array
 14. Add arrays
+15. Reverse elements in group
 
 #### **_Linked List_**
 
@@ -143,4 +145,10 @@
 
 #### **_Maths_**
 
-1. 
+1. Reverse a number
+2. GCD and LCM
+3. Modular concept
+4. Sieve Prime concepts
+5. Euler totient theorem
+6. Chinese remainder theorem
+7. Trailing zeroes in factorial
