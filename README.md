@@ -92,6 +92,7 @@
 2. Inorder traversal
 3. Pre order traversal
 4. Post order traversal
+5. Count leaf nodes
 
 #### **_Binary Search Tree_**
 
