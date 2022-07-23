@@ -71,6 +71,9 @@
 12. Deletion in circular linked list
 13. Reverse a linked list (Singly & Doubly)
 14. Find middle of linked list
+15. Palindrome linked list
+16. Add 2 numbers represented by linked list
+17. Add 1 to a linked list
 
 #### **_Stack And Queues_**
 
