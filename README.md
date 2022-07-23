@@ -95,6 +95,7 @@
 5. Count leaf nodes
 6. Height of binary tree
 7. Diameter of binary tree
+8. Check for balanced tree
 
 #### **_Binary Search Tree_**
 
