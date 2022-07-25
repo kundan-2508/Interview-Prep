@@ -85,6 +85,7 @@
 26. Rotate a linked list
 27. Delete last occurance of an element from linked list
 28. Delete the elements in linked list whose sum is zero
+29. Intersection of linked list
 
 #### **_Stack And Queues_**
 
