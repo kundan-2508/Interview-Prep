@@ -75,6 +75,13 @@
 16. Add 2 numbers represented by linked list
 17. Add 1 to a linked list
 18. Clone a linked list using random pointer
+19. Reverse a list in k group
+20. Detect and remove loop in linked list
+21. Remove duplicates in sorted/unsorted linked list
+22. Sort 0's , 1's and 2's
+23. Merge 2 sorted linked list
+24. Merge sort in linked list
+25. Flatten a linked list
 
 #### **_Stack And Queues_**
 
