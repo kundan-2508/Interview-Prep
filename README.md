@@ -89,6 +89,7 @@
 30. Partition in linked list
 31. Nth node from end in linked list
 32. Convert sorted linked list into binary search tree
+33. Reorder linked list
 
 #### **_Stack And Queues_**
 
