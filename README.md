@@ -81,7 +81,10 @@
 22. Sort 0's , 1's and 2's
 23. Merge 2 sorted linked list
 24. Merge sort in linked list
-25. Flatten a linked list
+25. Flattening a linked list
+26. Rotate a linked list
+27. Delete last occurance of an element from linked list
+28. Delete the elements in linked list whose sum is zero
 
 #### **_Stack And Queues_**
 
