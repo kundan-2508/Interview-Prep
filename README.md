@@ -86,6 +86,9 @@
 27. Delete last occurance of an element from linked list
 28. Delete the elements in linked list whose sum is zero
 29. Intersection of linked list
+30. Partition in linked list
+31. Nth node from end in linked list
+32. Convert sorted linked list into binary search tree
 
 #### **_Stack And Queues_**
 
