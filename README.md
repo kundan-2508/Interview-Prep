@@ -137,7 +137,7 @@
 
 #### **_Backtracking_**
 
-1. 
+1. Rate in a maze
 
 #### **_Bit Manipulation_**
 
