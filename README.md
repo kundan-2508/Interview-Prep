@@ -59,6 +59,7 @@
 
 1. Wave print
 2. Spiral print
+3. Rotate matrix by 90 degree
 
 #### **_Linked List_**
 
