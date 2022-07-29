@@ -60,6 +60,7 @@
 1. Wave print
 2. Spiral print
 3. Rotate matrix by 90 degree
+4. Search in matrix
 
 #### **_Linked List_**
 
