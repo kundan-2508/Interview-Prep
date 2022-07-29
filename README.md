@@ -138,6 +138,7 @@
 #### **_Backtracking_**
 
 1. Rate in a maze
+2. N queen problem
 
 #### **_Bit Manipulation_**
 
