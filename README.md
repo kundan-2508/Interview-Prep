@@ -57,7 +57,8 @@
 
 #### **_Matrix_**
 
-1. 
+1. Wave print
+2. Spiral print
 
 #### **_Linked List_**
 
