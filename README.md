@@ -158,7 +158,10 @@
 6. Compliment of decimal
 7. Find unique
 8. Find duplicate in an array
-9. Find all duplicates in an array
+9. Find 2 non repeating elements in an array
+10. Find position of only set bit in a number
+11. Count number of bits to be flipped to convert A to B
+
 
 #### **_Strings_**
 
