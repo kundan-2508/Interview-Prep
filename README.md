@@ -60,7 +60,8 @@
 1. Wave print
 2. Spiral print
 3. Rotate matrix by 90 degree
-4. Binary search in matrix
+4. Binary search in matrix - I
+5. Binary search in matrix - II
 
 #### **_Linked List_**
 
