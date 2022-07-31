@@ -161,7 +161,7 @@
 9. Find 2 non repeating elements in an array
 10. Find position of only set bit in a number
 11. Count number of bits to be flipped to convert A to B
-12. Divide two integers without using multiplication, division and mod operator
+12. Copy set bits in range
 
 #### **_Strings_**
 
