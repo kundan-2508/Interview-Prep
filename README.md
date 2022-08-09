@@ -114,7 +114,16 @@
 
 #### **_Graph_**
 
-1. 
+1. DFS traversal
+2. BFS traversal
+3. Detect cycle in undirected graph using BFS
+4. Detect cycle in undirected graph using DFS
+5. Detect cycle in directed graph using BFS
+6. Detect cycle in directed graph using DFS
+7. Topological sorting
+8. Topological sorting using kahn's algorithm
+9. Shortest path in undirected graph
+10. Shortest path in directed graph
 
 #### **_Tree_**
 
