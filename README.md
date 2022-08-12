@@ -102,7 +102,12 @@
 
 #### **_Stack And Queues_**
 
-1. 
+1. Stack implementation
+2. 2 stack in an array
+3. Delete middle element in stack
+4. Insert at bottom of stack
+5. Reverse stack
+6. Sort a stack
 
 #### **_Pattern Printing_**
 
