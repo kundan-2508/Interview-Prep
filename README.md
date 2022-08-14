@@ -54,6 +54,8 @@
 13. Check for sorted array
 14. Add arrays
 15. Reverse elements in group
+16. First missing positive
+17. Trapping rain water
 
 #### **_Matrix_**
 
