@@ -110,6 +110,9 @@
 4. Insert at bottom of stack
 5. Reverse stack
 6. Sort a stack
+7. Balanced brackets
+8. Reduntant bracket
+9. Minimum cost to make an expression valid
 
 #### **_Pattern Printing_**
 
