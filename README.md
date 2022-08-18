@@ -120,7 +120,7 @@
 
 #### **_Dynamic Programing_**
 
-1. 
+1. Longest Inreasing subsequence
 
 #### **_Graph_**
 
