@@ -121,6 +121,7 @@
 #### **_Dynamic Programing_**
 
 1. Longest Inreasing subsequence
+2. Edit distance
 
 #### **_Graph_**
 
