@@ -122,6 +122,13 @@
 
 1. Longest Inreasing subsequence
 2. Edit distance
+3. 0/1 knapsack
+4. Subset sum
+5. Equal partition
+6. Count of subset sum
+7. Unbounded knapsack
+8.Rod cutting
+9. Coin change
 
 #### **_Graph_**
 
@@ -146,6 +153,12 @@
 6. Height of binary tree
 7. Diameter of binary tree
 8. Check for balanced tree
+9. Top view
+10. Bottom view
+11. Left/Right view
+12. Vertical order traversal
+13. Zig Zag traversal
+14. Check for BST
 
 #### **_Binary Search Tree_**
 
